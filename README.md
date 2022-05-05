@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RobertoMont31
-- 👀 I’m interested in RPA Development
-- 🌱 I’m currently learning UiPath, VB.net, JavaScript 
-- 💞️ I’m looking to collaborate on RPA Proyects 
+- 👀 I’m interested in RPA Development, Web Development
+- 🌱 I’m currently learning UiPath, VB.net, JavaScript, Typescript, Vue, React and Azure Cloud tools.  
+- 💞️ I’m looking to collaborate on RPA Projects and Web Development Projects
 - 📫 How to reach me ..
 
 <!---
