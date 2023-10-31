@@ -12,7 +12,7 @@ I'm a young 27 years old, Mexican developer, with a thirst for knowledge. I have
 * 🚀  I'm currently working on [My Personal Portfolio](http://robmontufar-dev.netlify.app/)
 * 🧠  I'm learning Astro, Tailwind CSS, Cognigy Chat Bots
 * 🤝  I'm open to collaborating on Anything involving Fullstack development, Chatbots, RPA.
-* ⚡  I enjoy many things but mostly music, anime, series, videogames, science and fanasy.
+* ⚡  I enjoy many things but mostly music, anime, series, videogames, science and fantasy.
 
 ### Skills
 
