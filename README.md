@@ -1,15 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roberto Montúfar
 ========================================================================================================================================
 
-Fullstack, RPA developer and UI/UX fanatic
+Software Engineer
 ------------------------------------------
 
-I'm a young 27 years old, Mexican developer, with a thirst for knowledge. I have a Bachelors degree in Mechatronics Engineering, by Universidad de las Américas Puebla (UDLAP). I love learning new suff and I'm always looking for things to add to my tech stak. I'd like to contribute with anything I can, network and add value
+I'm a young 30 years old, Mexican developer, with a thirst for knowledge. I have a Bachelors degree in Mechatronics Engineering, by Universidad de las Américas Puebla (UDLAP). I love learning new stuff and I'm always looking for things to learn. I'd like to contribute with anything I can, network and add value
 
 * 🌍  I'm based in Xalapa, Veracruz, México.
-* 🖥️  See my portfolio at [RobMontufar](http://robmontufar-dev.netlify.app/)
 * ✉️  You can contact me at [roberto.montufarar@gmail.com](mailto:roberto.montufarar@gmail.com)
-* 🚀  I'm currently working on [My Personal Portfolio](http://robmontufar-dev.netlify.app/)
+* 🚀  I'm currently contributing to: [Red Mars Engineering](https://github.com/Red-Mars-Engineering)
 * 🧠  I'm learning Astro, Tailwind CSS, Cognigy Chat Bots
 * 🤝  I'm open to collaborating on Anything involving Fullstack development, Chatbots, RPA.
 * ⚡  I enjoy many things but mostly music, anime, series, videogames, science and fantasy.
